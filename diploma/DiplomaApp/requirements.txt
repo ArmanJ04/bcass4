@@ -1,5 +1,0 @@
-PyQt6
-torch
-numpy
-pandas
-scipy
